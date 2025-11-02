@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "markdown-it-mathjax3": "^5.2.0",
     "vidstack": "^1.12.13",
     "vitepress": "^1.6.4",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",

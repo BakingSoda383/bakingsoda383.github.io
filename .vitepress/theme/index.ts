@@ -4,7 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { useData, useRoute } from 'vitepress';
-import './style.css'
+import './style/index.css'
 
 import update from './components/update.vue'
 
